@@ -1,0 +1,57 @@
+  nav {
+    color: black;
+     display: inline-block;
+  }
+
+  nav .array-inputs #a_size {
+    padding: 5% 0%;
+  }
+
+  nav .array-inputs #a_speed {
+    padding: 5% 0%;
+  }
+   nav .array-inputs #a_generate {
+    color: black;
+    font-size: x-large;
+    padding: 14px;
+    display: inline-block;
+     position: relative;
+     bottom: 30px;
+     left: 240px;
+     margin-bottom: 0px;
+    background-color:white-smoke;
+  }
+  nav .array-inputs #a_generate:hover{
+     background-color:rgb(146, 146, 226);;
+
+  }
+  nav .header_right .algos {
+    display: inline-block;
+    position: relative;
+    left: 400px;
+    bottom: 350px;
+  }
+  nav .header_right .algos button {
+    color: black;
+    margin-right: 30px;
+    font-size: x-large;
+  }
+  nav .header_right .nav-heading{
+    position: relative;
+    left: 520px;
+    bottom:350px;
+    color: chocolate;
+    font-size: 40px;
+    text-decoration: underline;
+  }
+  nav .header_right .algos button:hover {
+    background-color: rgb(146, 146, 226);
+  }
+  section #array_container {
+    display: inline-flex;
+    position: relative;
+    bottom:100px;
+    width: 80%;
+    height: 220px;
+    left: 180px;
+  }
